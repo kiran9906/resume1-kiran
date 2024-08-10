@@ -1,0 +1,52 @@
+body{
+    background-image: linear-gradient(black,white);
+    height: 100vh;
+}
+.navibar li{
+    list-style-type: none;
+
+}
+.navibar ul {
+    display: flex;
+    gap: 100px;
+    padding: 10px;
+    font-family: cursive;
+}
+.navibar a:hover{
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 20px;
+
+}
+a{
+    text-decoration: none;
+}
+.image{
+    height:  80vh;
+    filter: drop-shadow(20px 10px 8px orange);
+}
+.name{
+    filter: drop-shadow(20px 10px 8px white);
+    color:blue;
+   font-family: cursive;
+
+}
+.About{
+    filter: drop-shadow(5px 5px 5px white);
+    font-family: cursive;
+}
+h7{
+    filter: drop-shadow(2px 2px 2px black);
+}
+.pragraph{
+    height: 300px;
+    width: 500px;
+    font-family: cursive;
+    color: wheat;
+}
+.navibar{
+    width: 400px;
+}
+h4{
+    font-family: cursive;
+}

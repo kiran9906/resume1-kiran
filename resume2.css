@@ -1,0 +1,132 @@
+body{
+    background-image: linear-gradient(45deg,black,white);
+    height: 350vh;
+    cursor: pointer;
+}
+div{
+    font-family: cursive;
+    color: wheat;
+    filter: drop-shadow(2px 2px 2px black);
+}
+.name{
+    background-color: gray;
+    height: 100px;
+    width: 100px;
+    filter: drop-shadow(2px 2px 0px black);
+    border-radius: 20px;
+}
+.fieldset:hover{
+    background-color:gray;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px red  , inset 3px 3px 3px red;
+}
+.div1{
+    width: 200px;
+}
+.h4{
+    width: 200px;
+}
+.h5{
+    width: 200px;
+}
+.leetcode{
+    height: 50px;
+    width: 50px;
+}
+.linkden{
+    height: 50px;
+    width: 50px;
+}
+.ul{
+    display: flex;
+    text-decoration: none;
+}
+.l1{
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+}
+.note{
+    font-family: cursive;
+    color: red;
+}
+.b{
+    filter: drop-shadow(2px 2px 2px orange);
+}
+.note{
+    filter: drop-shadow(2px 2px 2px white);
+}
+.fieldset2:hover{
+    background-color: gray;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px red, inset 3px 3px 3px red;
+}
+.html{
+    height: 100px;
+    width: 100px;
+    filter: drop-shadow(2px 2px 2px white);
+}
+.css{
+    height: 100px;
+    width: 100px;
+    filter: drop-shadow(2px 2px 2px white);
+}
+.java{
+    height: 100px;
+    width: 100px;
+    filter: drop-shadow(2px 2px 2px wheat);
+    
+}
+.java1{
+    height: 100px;
+    width: 100px;
+    filter: drop-shadow(2px 2px 2px orange);
+}
+.java2{
+    height: 100px;
+    width: 100px;
+    filter: drop-shadow(2px 2px 2px red);
+}
+.framework{
+    color: red;
+    filter: drop-shadow(2px 2px 0px black);
+}
+.c{ 
+    height: 80px;
+    width: 80px;
+    filter: drop-shadow(2px 2px 2px white);
+}
+.python{
+    height: 100px;
+    width: 150px;
+}
+.angular{
+    height: 100px;
+    width: 100px;
+}
+.sql{
+    height: 100px;
+    width: 100px;
+
+}
+.skills{
+    filter:drop-shadow(3px 3px 0px black);
+}
+.btech{
+    filter: drop-shadow(3px 3px 0px black);
+}
+.clgname{
+    filter: drop-shadow(3px 3px 0px black);
+}
+.cgpa{
+    filter: drop-shadow(3px 3px 0px black)
+}
+.div6,h3,h5,h6{
+    filter: drop-shadow(3px 3px 2px black);
+}
+.button:hover{
+    background-color: blue;
+    font-family: cursive;
+    border-radius: 20px;
+}
